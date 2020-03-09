@@ -4,10 +4,9 @@ Criei o arquivo e to escrevendo um textinho fofo
 
 Estou mudando o testinho
 
-<<<<<<< HEAD
 Tá mudando aqui na nova branch
 
 Isso é mudado na branch da lady gaga
 =======
 Tá mudando aqui na nova branch
->>>>>>> parent of 4e560f6... Update testando.txt
+
